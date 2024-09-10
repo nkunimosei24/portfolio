@@ -29,14 +29,15 @@ nav {
 
 .title {
     font-size: 60px;
+    
 }
 
 .subtitle {
     font-size: 16px;
 }
 
-.hero-info {
+/* .hero-info {
     width: 50%;
     padding-top: 48px;
-    /* margin-top: 50px; */
-}
+    
+} */
